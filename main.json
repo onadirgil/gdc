@@ -3,9 +3,5 @@
   "symbol": "GDC",
   "description": "Holy Coin",
   "uri": "https://raw.githubusercontent.com/onadirgil/gdc/refs/heads/main/json",
-  "attributes": [
-    {
-      "trait_type": "Item",
-    }
   ]
 }
