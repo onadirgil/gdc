@@ -1,0 +1,12 @@
+{
+  "name": "GodsCoin",
+  "symbol": "GDC",
+  "description": "Holy Coin",
+  "uri": "https://raw.githubusercontent.com/onadirgil/gdc/refs/heads/main/json",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreihbmitm7d4vs5patvjlouade4v7txavhfloqwawfangm2ibhr2mxy",
+  "attributes": [
+    {
+      "trait_type": "Item",
+    }
+  ]
+}
