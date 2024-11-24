@@ -1,0 +1,12 @@
+{
+  "name": "God`s Coin",
+  "symbol": "GDC",
+  "description": "Holy Coin",
+  "image": "https://github.com/onadirgil/gdc/blob/main/Black%20White%20and%20Gold%20Elegant%20Wedding%20Planner%20Animated%20Logo.gif",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
