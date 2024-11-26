@@ -2,5 +2,13 @@
   "name": "GodsCoin",
   "symbol": "GDC",
   "description": "Holy Coin",
-  "image": "https://github.com/onadirgil/gdc/blob/main/BlackWhiteandGoldElegantWeddingPlannerAnimatedLogo-ezgif.com-crop.gif",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreicgm7icmqwn3rwxjxq5tu5hxpn42uvsoirahbrvxzbcxqy2bmj7jm",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://gateway.pinata.cloud/ipfs/bafkreicgm7icmqwn3rwxjxq5tu5hxpn42uvsoirahbrvxzbcxqy2bmj7jm",
+        "type": "image/png"
+      }
+    ]
+  }
 }
