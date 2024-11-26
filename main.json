@@ -2,11 +2,11 @@
   "name": "GodsCoin",
   "symbol": "GDC",
   "description": "Holy Coin",
-  "image": "https://gateway.pinata.cloud/ipfs/bafkreicgm7icmqwn3rwxjxq5tu5hxpn42uvsoirahbrvxzbcxqy2bmj7jm",
+  "image": "https://nftstorage.link/ipfs/bafkreicfhc7spp6pghwlfnryllhluipbye3q3rorvop7ggbionbu77ifle",
   "properties": {
     "files": [
       {
-        "uri": "https://gateway.pinata.cloud/ipfs/bafkreicgm7icmqwn3rwxjxq5tu5hxpn42uvsoirahbrvxzbcxqy2bmj7jm",
+        "uri": "https://nftstorage.link/ipfs/bafkreicfhc7spp6pghwlfnryllhluipbye3q3rorvop7ggbionbu77ifle",
         "type": "image/png"
       }
     ]
